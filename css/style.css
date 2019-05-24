@@ -8409,12 +8409,12 @@ h1, h2, h3, h4, h5,
   -webkit-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  /* background: #2c2f3a;  */
-  background: #752832;
+  background: #2c2f3a; 
+  /* background: #752832; */
 }
   .services:nth-child(even) {
-    /* background: #16181d;  */
-    background: #5b0d18; 
+    background: #16181d; 
+    /* background: #5b0d18;  */
   }
   .services .icon {
     line-height: 1.3;
@@ -8434,12 +8434,12 @@ h1, h2, h3, h4, h5,
       -webkit-transition: all 0.3s ease;
       -ms-transition: all 0.3s ease;
       transition: all 0.3s ease;
-      /* background: #2c2f3a;  */
-      background: #752832;
+      background: #2c2f3a; 
+      /* background: #752832; */
     }
       .services2:nth-child(odd) {
-        /* background: #16181d;  */
-        background: #5b0d18; 
+        background: #16181d; 
+        /* background: #5b0d18;  */
       }
       .services2 .icon {
         line-height: 1.3;
@@ -8630,7 +8630,8 @@ textarea.form-control {
 
 .ftco-footer {
   font-size: 16px;
-  background: #5b0d18;
+  /* background: #5b0d18; */
+  background: #722f37;
   padding: 7em 0 4em 0; }
   .ftco-footer .ftco-footer-widget h2 {
     font-weight: normal;
