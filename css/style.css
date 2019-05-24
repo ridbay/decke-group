@@ -7991,8 +7991,8 @@ body {
     overflow: hidden;
     position: fixed;
     height: 100%;
-    width: 100%; }
-
+    width: 100%; 
+  }
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
